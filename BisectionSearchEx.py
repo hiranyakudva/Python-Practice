@@ -1,3 +1,8 @@
+# This code is an example of Bisection search which is a powerful way to 
+# reduce computation time by eliminating half of the results at a time.
+# This is a guessing game where yoou guess a number between 0 and 100 and
+# the computer guessess the number by taking your feedback on its guess.
+
 print('Please think of a number between 0 and 100!')
 low=0
 high=100
