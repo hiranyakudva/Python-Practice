@@ -2,7 +2,8 @@
 
 def isPal(x):
 '''
-x is a string with no spaces and puncuation marks
+x: string with no spaces and puncuation marks
+returns whether x is a palindrome
 '''
     x=x.lower()
     if len(x)<=1:
